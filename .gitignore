@@ -94,3 +94,6 @@ typings/
 
 *.sqlite3
 .env
+.app.py
+.file.py
+.commit.py
